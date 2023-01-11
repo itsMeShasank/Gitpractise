@@ -1,4 +1,2 @@
 this is file 4 created in branch Test.
 File 4 created.
-
-slight modifications done after merging into master.

@@ -1,4 +1,2 @@
 this is file created in Test branch.
 file 3 is created.
-
-slight modifications are done after merging branch into master.
